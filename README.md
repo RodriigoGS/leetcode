@@ -14,3 +14,8 @@
   - [ ] Golang
   - [x] Javascript
   - [ ] PHP
+
+- [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix)
+  - [ ] Golang
+  - [x] Javascript
+  - [ ] PHP
