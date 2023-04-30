@@ -9,3 +9,8 @@
   - [x] Golang
   - [ ] Javascript
   - [ ] PHP
+
+- [Roman to Integer](https://leetcode.com/problems/roman-to-integer)
+  - [ ] Golang
+  - [x] Javascript
+  - [ ] PHP
