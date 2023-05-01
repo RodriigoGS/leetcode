@@ -19,3 +19,8 @@
   - [ ] Golang
   - [x] Javascript
   - [ ] PHP
+
+- [Palindrome Number](https://leetcode.com/problems/palindrome-number)
+  - [ ] Golang
+  - [x] Javascript
+  - [ ] PHP
